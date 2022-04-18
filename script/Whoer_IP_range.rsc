@@ -1,3 +1,5 @@
+# https://2ip.ua/ru/services/information-service/provider-ip
+
 ip firewall/address-list/add address=1.0.0.0/24 list=Telegram comment="whoer.net"
 ip firewall/address-list/add address=1.1.1.0/24 list=Telegram comment="whoer.net"
 ip firewall/address-list/add address=8.6.112.0/24 list=Telegram comment="whoer.net"
